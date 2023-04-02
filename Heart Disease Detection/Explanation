@@ -1,0 +1,8 @@
+This project was done to attepmt to predict heart disease detection using a variety of methods and models. Attached is the python code to create the machine learning model, the public data that was used, the SQL databases that were created to store patient information, and the final report.
+
+The report covers the:
+  Data cleaning
+  Correlation Matrix
+  Machine learning models (Naive Bayes Classifier, Logisitic Regression, KNN, Decision Tree, Random Forest, and Neural Network)
+  SQL database design and connection
+  Analysis of findings
